@@ -8,13 +8,13 @@ body > header {
 
 body > nav {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
 }
 
 body > main {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 body > footer {
