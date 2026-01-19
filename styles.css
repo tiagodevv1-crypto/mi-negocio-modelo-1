@@ -29,16 +29,17 @@ body > main > section{
 }
 body > footer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
 }
 
 .footer-listas {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .footer-rights {
+    display: flex;
     justify-content: flex-start;
 }
