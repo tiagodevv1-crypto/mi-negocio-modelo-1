@@ -22,7 +22,7 @@ body > main > section{
     flex-direction: column;
 }
 
-.desccripcion-inicial , .mapa {
+.desccripcion-inicial , .mapa, .ubicacion-mapa {
     display: flex;
     flex-direction: row;
     justify-content: center;
