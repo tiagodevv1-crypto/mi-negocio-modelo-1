@@ -19,6 +19,7 @@ body > main {
 
 body > main > section {
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
