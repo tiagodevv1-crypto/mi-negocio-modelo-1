@@ -2,6 +2,11 @@ body, main, footer {
     background-color: rgb(250, 243, 225);
 }
 
+.document {
+    display: grid;
+    min-width: 100vh;
+    grid-template-rows: auto 1fr auto;
+}
 body, footer {
     width: 95vw;
 }
@@ -11,10 +16,10 @@ body > header {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    margin: 5%;
 }
 
 .header-estilo {
-    margin: 5vw;
     background-color: rgb(250, 129, 18);
 }
 body > header > nav {
