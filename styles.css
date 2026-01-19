@@ -1,3 +1,7 @@
+body, main, footer {
+    background-color: rgb(250, 243, 225);
+}
+
 body, footer {
     width: 95vw;
 }
