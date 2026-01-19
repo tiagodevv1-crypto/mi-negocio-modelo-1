@@ -17,13 +17,16 @@ body > main {
     flex-direction: column;
 }
 
-body > main > section {
+body > main > section{
+    display: flex;
+    flex-direction: row;
+}
+
+.desccripcion-inicial , .mapa {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
 }
-
 body > footer {
     display: flex;
     flex-direction: row;
