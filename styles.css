@@ -17,6 +17,10 @@ body > main {
     flex-direction: column;
 }
 
+body > main > section {
+    justify-content: center;
+}
+
 body > footer {
     display: flex;
     flex-direction: row;
