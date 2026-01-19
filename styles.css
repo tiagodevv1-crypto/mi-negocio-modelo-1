@@ -11,9 +11,12 @@ body > header {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin: 5vw rgb(250, 129, 18);
 }
 
+.header-estilo {
+    margin: 5vw;
+    background-color: rgb(250, 129, 18);
+}
 body > header > nav {
     display: flex;
     flex-direction: row;
