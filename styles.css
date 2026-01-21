@@ -1,6 +1,6 @@
 body {
     background-color: rgb(250, 243, 225);
-    width: 97%;
+    width: 100%;
     display: grid;
     min-width: 100vh;
     grid-template-rows: auto 1fr auto;
