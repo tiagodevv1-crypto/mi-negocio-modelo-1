@@ -18,7 +18,7 @@ body > header {
     flex-direction: row;
     justify-content: space-evenly;
     margin: 5%;
-    background-color: rgb(250, 129, 18);
+    background-color: rgb(250, 129, 18) !important;
 }
 
 header > nav {
