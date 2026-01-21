@@ -64,4 +64,9 @@ body > footer {
         flex-direction: column;
         flex-wrap: wrap;
     }
+
+    header,main,footer{
+        display: flex;
+        flex-direction: column;
+    }
 }
