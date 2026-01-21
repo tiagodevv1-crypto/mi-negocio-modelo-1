@@ -7,11 +7,10 @@ body {
 }
 
 body > header {
-    width: 100%;
+    width: 97%;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin: 5%;
     background-color: rgb(250, 129, 18) !important;
 }
 
