@@ -23,7 +23,7 @@ body > header {
     background-color: rgb(250, 129, 18);
 }
 
-header > nav {
+body > header > .header-estilo > nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
