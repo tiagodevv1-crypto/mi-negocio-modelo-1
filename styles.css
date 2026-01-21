@@ -3,6 +3,7 @@ body, main, footer {
 }
 
 .document {
+    width: 97vw;
     display: grid;
     min-width: 100vh;
     grid-template-rows: auto 1fr auto;
