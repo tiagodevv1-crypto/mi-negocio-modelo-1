@@ -57,3 +57,11 @@ body > footer {
     display: flex;
     justify-content: flex-start;
 }
+
+@media (max-width: 768px){
+    body{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
