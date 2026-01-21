@@ -22,11 +22,6 @@ body > header {
 .header-estilo {
     background-color: rgb(250, 129, 18);
 }
-.header-estilo > nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
 
 body > nav {
     display: flex;
