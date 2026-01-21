@@ -1,8 +1,5 @@
-body, main, footer {
-    background-color: rgb(250, 243, 225);
-}
-
 .document {
+    background-color: rgb(250, 243, 225);
     width: 97vw;
     display: grid;
     min-width: 100vh;
